@@ -1,8 +1,12 @@
+<!-- ✨ Stylish GitHub Profile for Chiyanshi Porwal ✨ -->
+
+<img src="https://i.ibb.co/0FzWsSm/data-banner.gif" alt="Data Science Banner" width="100%">
+
 # 👋 Hi, I'm Chiyanshi Porwal  
 
-🎓 MCA (Data Science) Student at **MIT ADT University, Pune**  
-💡 Passionate about **Data Analytics | Machine Learning | Data Visualization**  
-📊 Skilled in extracting actionable insights from data and building interactive dashboards.  
+🎓 **MCA (Data Science)** Student at **MIT ADT University, Pune**  
+💡 *Data Analyst | Data Science Enthusiast | Dashboard Developer*  
+✨ *Turning data into insights using Python, SQL, and Power BI*  
 
 ---
 
@@ -12,66 +16,73 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/MS%20Excel-217346?logo=microsoft-excel&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-008080)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0C4B33)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-009688)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-102230)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-8E44AD)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2C3E50)
-![Version Control](https://img.shields.io/badge/Git%20&%20GitHub-181717?logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ---
 
 ## 💼 Experience
-### 🧩 Data Analyst Intern – Elevate Labs (Apr 2025 – May 2025)  
+### 🧩 Data Analyst Intern – Elevate Labs *(Apr 2025 – May 2025)*  
 - Performed **data cleaning, analysis, and visualization** using Python, SQL, and Power BI.  
-- Designed interactive dashboards and optimized SQL queries for business reports.  
-- Extracted key insights to support decision-making and improve data workflows.
+- Designed interactive dashboards and optimized SQL queries for reporting.  
+- Extracted key insights to support decision-making and improve efficiency.  
 
-### 📊 Data Analyst Intern – Codec Technologies (Jul 2025 – Aug 2025)  
-- Worked on real-time datasets for visualization and reporting using Power BI and Python.  
-- Focused on **data cleaning, ETL processes**, and performance dashboards.  
-- Appreciated for professionalism, initiative, and analytical accuracy.  
+### 📊 Data Analyst Intern – Codec Technologies *(Jul 2025 – Aug 2025)*  
+- Worked on real-time datasets for **data wrangling and visualization**.  
+- Focused on ETL processes, advanced data cleaning, and interactive Power BI reports.  
+- Appreciated for analytical precision and professional attitude.  
 
 ---
 
 ## 📂 Featured Projects
-### 🛒 Blinkit Grocery Sales Analysis (Capstone Project)  
-📊 Tools: Python (Pandas), SQL, Power BI  
-- Conducted EDA and developed interactive sales dashboards.  
-- Created KPIs (total sales, average rating, item performance) and location-based insights.  
+### 🛒 Blinkit Grocery Sales Analysis  
+📊 *Tools:* Python (Pandas), SQL, Power BI  
+🔹 Conducted EDA, developed KPIs (total sales, average rating), and built interactive dashboards.
 
 ### 🎬 YouTube Trending Analytics  
-📈 Tools: Python, Pandas, Matplotlib, Seaborn, SQL  
-- Designed analytics pipeline for exploring YouTube trending video data.  
-- Built visual dashboards and provided data-driven content strategy insights.  
+📈 *Tools:* Python, Pandas, Seaborn, SQL  
+🔹 Built analytics pipeline to analyze trending patterns and visualize engagement insights.
+
+### 💳 Credit Risk Modeling  
+📉 *Tools:* Python, SMOTE, Logistic Regression, SHAP  
+🔹 Predicted loan default risk and used SHAP for explainability and fairness evaluation.
+
+### 🍴 Online Food Delivery System  
+💻 *Tools:* PHP, MySQL, Bootstrap  
+🔹 Designed a web-based system for online food ordering and data management.
 
 ---
 
-## 🎓 Education
-- **MCA (Data Science)** – MIT ADT University, Pune (2024–2026) — *CGPA: 8.20*  
-- **B.Sc. (Computer Science)** – DAVV University (2021–2024) — *CGPA: 8.00*  
-- **12th (MP Board)** – 2021 — *84%*  
-- **10th (MP Board)** – 2019 — *84%*  
+## 🎯 Goals for 2025
+- 📊 Build a portfolio of real-world data dashboards  
+- 🧠 Learn and apply Machine Learning deployment (Flask + Streamlit)  
+- 💼 Secure a Data Analyst internship in a top company  
+- 🚀 Contribute to open-source analytics projects  
 
 ---
 
-## 🏆 Certifications
-- 🧮 *Statistics for Data Science with Python* – IBM (Coursera, 2024)  
-- 📊 *Data Analytics Job Simulation* – Quantium  
-- 🐍 *Python Data Structures* – University of Michigan (Coursera)  
-- 📈 *Google Analytics Certificate* – Coursera (2024)
+## 💬 Ask Me About
+- Data Visualization using Power BI & Tableau  
+- Python for Data Analytics  
+- Data Cleaning and Preprocessing  
+- SQL Query Optimization  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiyanshi005&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiyanshi005&layout=compact&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Chiyanshi005&theme=radical)](https://git.io/streak-stats)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chiyanshi005&theme=react-dark)
 
 ---
 
@@ -82,4 +93,5 @@
 
 ---
 
-⭐ **"Turning data into meaningful insights — one dataset at a time."**
+⭐ **"Code. Learn. Build. Repeat."**  
+💖 *Thanks for visiting my profile! Feel free to explore my repositories and leave a star if you like my work!*
