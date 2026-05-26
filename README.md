@@ -30,12 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-metrics.vercel.app/api?username=Chiyanshi005&theme=tokyonight&show_icons=true" alt="GitHub Metrics" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chiyanshi005&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>
 
 ## 💼 Experience
 ### 🧩 Data Analyst Intern – Elevate Labs *(Apr 2025 – May 2025)*  
