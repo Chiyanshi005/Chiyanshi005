@@ -30,6 +30,13 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiyanshi005&show_icons=true&theme=dark&hide_border=true" alt="Chiyanshi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiyanshi005&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
 ## 💼 Experience
 ### 🧩 Data Analyst Intern – Elevate Labs *(Apr 2025 – May 2025)*  
 - Performed **data cleaning, analysis, and visualization** using Python, SQL, and Power BI.  
