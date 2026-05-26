@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chiyanshi005&show_icons=true&theme=dark&hide_border=true" alt="Chiyanshi's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiyanshi005&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chiyanshi005&show_icons=true&theme=tokyonight&count_private=true" alt="Chiyanshi's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiyanshi005&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ## 💼 Experience
